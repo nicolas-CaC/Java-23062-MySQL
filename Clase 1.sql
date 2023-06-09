@@ -1,6 +1,7 @@
 -- BASES DE DATOS
 
 CREATE DATABASE soyunabasededatos;
+CREATE DATABASE java23062;
 SHOW DATABASES;
 DROP DATABASE soyunabasededatos;
 USE java23062;
